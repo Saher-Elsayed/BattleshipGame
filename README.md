@@ -1,19 +1,14 @@
 # BattleshipGame
 BattleShip Game using PyGame
 <br>
-_This is done as part of a course project during fourth semester._
-<br>
-<br>
-##Dependencies
-<br>
+_This is done as part of a course project during my fourth semester in UnderGrad._
+
+## Dependencies
 PyGame
-<br>
-<br>
-##Execution
+
+## Execution
 To install the module
-<br>
 ```
 pip install pygame
 ```
-<br>
-Execute the python program.
+Now execute the python program.
